@@ -28,4 +28,3 @@ while another_try:
     else:
         print("\nThank the Binary System! See ya!")
         another_try = False
-
